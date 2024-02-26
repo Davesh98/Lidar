@@ -1,0 +1,6 @@
+Invoking command in '/home/botshreyasi/lidar/build/my_bot_ld': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/botshreyasi/lidar/src/my_bot_ld -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/botshreyasi/lidar/install/my_bot_ld
+Invoked command in '/home/botshreyasi/lidar/build/my_bot_ld' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/botshreyasi/lidar/src/my_bot_ld -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/botshreyasi/lidar/install/my_bot_ld
+Invoking command in '/home/botshreyasi/lidar/build/my_bot_ld': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/botshreyasi/lidar/build/my_bot_ld -- -j4 -l4
+Invoked command in '/home/botshreyasi/lidar/build/my_bot_ld' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/botshreyasi/lidar/build/my_bot_ld -- -j4 -l4
+Invoking command in '/home/botshreyasi/lidar/build/my_bot_ld': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/botshreyasi/lidar/build/my_bot_ld
+Invoked command in '/home/botshreyasi/lidar/build/my_bot_ld' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/botshreyasi/lidar/build/my_bot_ld

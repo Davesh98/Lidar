@@ -1,0 +1,26 @@
+[0.073s] Invoking command in '/home/botshreyasi/lidar/build/my_bot_ld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/botshreyasi/lidar/build/my_bot_ld -- -j4 -l4
+[0.111s] Invoked command in '/home/botshreyasi/lidar/build/my_bot_ld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/botshreyasi/lidar/build/my_bot_ld -- -j4 -l4
+[0.142s] Invoking command in '/home/botshreyasi/lidar/build/my_bot_ld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/botshreyasi/lidar/build/my_bot_ld
+[0.149s] -- Install configuration: ""
+[0.150s] -- Execute custom install script
+[0.150s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/config/empty.yaml
+[0.150s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/description/robot.urdf.xacro
+[0.151s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/description/robot_core.xacro
+[0.151s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/launch/rsp.launch.py
+[0.151s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/worlds/empty.world
+[0.151s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/package_run_dependencies/my_bot_ld
+[0.151s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/parent_prefix_path/my_bot_ld
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/ament_prefix_path.sh
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/ament_prefix_path.dsv
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/path.sh
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/path.dsv
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.bash
+[0.152s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.sh
+[0.153s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.zsh
+[0.153s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.dsv
+[0.153s] -- Symlinking: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/package.dsv
+[0.162s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/packages/my_bot_ld
+[0.162s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/cmake/my_bot_ldConfig.cmake
+[0.162s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/cmake/my_bot_ldConfig-version.cmake
+[0.162s] -- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/package.xml
+[0.165s] Invoked command in '/home/botshreyasi/lidar/build/my_bot_ld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/botshreyasi/lidar/build/my_bot_ld

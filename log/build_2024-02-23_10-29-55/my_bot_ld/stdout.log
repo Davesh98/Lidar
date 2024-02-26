@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/config/empty.yaml
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/description/robot_core.xacro
+-- Symlinking: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/launch/rsp.launch.py
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/worlds/empty.world
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/package_run_dependencies/my_bot_ld
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/parent_prefix_path/my_bot_ld
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/path.sh
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/environment/path.dsv
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.bash
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.sh
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.zsh
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/local_setup.dsv
+-- Symlinking: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/package.dsv
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/ament_index/resource_index/packages/my_bot_ld
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/cmake/my_bot_ldConfig.cmake
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/cmake/my_bot_ldConfig-version.cmake
+-- Up-to-date symlink: /home/botshreyasi/lidar/install/my_bot_ld/share/my_bot_ld/package.xml
